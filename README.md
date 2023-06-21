@@ -1,2 +1,2 @@
 # Nuxier
-For me
+print("hello, world");
